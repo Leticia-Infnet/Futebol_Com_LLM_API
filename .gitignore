@@ -1,0 +1,4 @@
+.env
+statsbomb_cache.sqlite
+__pycache__/
+.venv/
