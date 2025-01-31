@@ -19,13 +19,13 @@ Projeto como parte do Assessment de Desenvolvimento de Data-Driven Apps com Pyth
 Clone o projeto
 
 ```
-  git clone https://github.com/Leticia-Infnet/leticia_abreu_DR3_AT_parte2.git
+  git clone https://github.com/Leticia-Infnet/Futebol_Com_LLM_API.git
 ```
 
 Entre no diretório do projeto
 
 ```
-  cd leticia_abreu_DR3_AT_parte2
+  cd Futebol_Com_LLM_API
 ```
 
 Instale as dependências
